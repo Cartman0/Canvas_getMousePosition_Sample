@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+html, body{
+    text-align: center;
+    background-color: #fafafa;
+    font-size: 20px;
+    color: #333;
+    font-family: 'Noto Sans Japanese', sans-serif;
+}
+#mycanvas{
+  border: 1px solid #333;
+}
